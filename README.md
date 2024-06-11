@@ -56,7 +56,7 @@ A solo project website, a team project social network and some tools used day to
 | - | - | - |
 | [**IENPCs**](https://github.com/ddrmv/ienpcs) | Website with wiki, gallery, party manager (solo project) | Python, Django, DTL, Bootstrap, ORM, UnitTest, HTML |
 | [**Meowbook**](https://github.com/ddrmv/d-meowbook)| A social media app with a meow twist (team project) | JavaScript, Node, Express, Handlebars, Bootstrap, MongoDB, Jest, Cypress |
-| [**X Bookmarker**](https://github.com/ddrmv/x-bookmarker) | Firefox addon to create a Twitter video timestamped bookmark with one click  | JavaScript, Krita |
+| [**X Bookmarker**](https://github.com/ddrmv/x-bookmarker) | Firefox addon for creating timestamped bookmarks of Twitter videos with one click | JavaScript, Krita |
 | [**Gmail "More" Remover**](https://github.com/ddrmv/gmail-more-remover-scriptlet) | Removes the "More" buttons from the label list in Gmail  | JavaScript, Tampermonkey |
 
 
