@@ -2,9 +2,10 @@
 
 I'm an avid learner and hard-working junior software engineer with experience in Python, Ruby, JavaScript, TypeScript. A Makers Software Engineering Bootcamp graduate, with a degree in Computing, and a passion for high-quality code. Led by desire to learn and solve problems, aiming to write robust, maintainable, testable, high-quality software.
 
-- Familiar with Data Structures and Algorithms, some experience with C and C++, ML model training
-- Just finished and published a Firefox addon
-- Currently learning React and React Native to build an Android app
+- Familiar with Data Structures and Algorithms, some experience with Kotlin, C, C++, ML model training
+- Just published a Firefox addon
+- Working on an [**Android app**](https://github.com/ddrmv/kegel-foss) to be published on Google Play
+- Currently using Kotlin, learning Docker, React, React Native
 
 
 ## Languages and Tools
@@ -17,9 +18,12 @@ I'm an avid learner and hard-working junior software engineer with experience in
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54" alt="Python" /> 
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white" alt="Ruby" /> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript" /> 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white" alt="TypeScript" /> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5" /> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="CSS3" /> 
++ some <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white" alt="TypeScript" /> 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" alt="Kotlin" /> 
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white" alt="C" /> 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white" alt="C++" /> 
 </div>
 
 <div align="center">
@@ -54,17 +58,17 @@ A solo project website, a team project social network and some tools used day to
 
 | Name | Description | Technology / Tools |
 | - | - | - |
+| [**Kegel FOSS**](https://github.com/ddrmv/kegel-foss) | Android exercise app | Kotlin, Android, Jetpack Compose, Gradle, Coroutines |
 | [**IENPCs**](https://github.com/ddrmv/ienpcs) | Website with wiki, gallery, party manager (solo project) | Python, Django, DTL, Bootstrap, ORM, UnitTest, HTML |
 | [**Meowbook**](https://github.com/ddrmv/d-meowbook)| A social media app with a meow twist (team project) | JavaScript, Node, Express, Handlebars, Bootstrap, MongoDB, Jest, Cypress |
 | [**X Bookmarker**](https://github.com/ddrmv/x-bookmarker) | Firefox addon for creating timestamped bookmarks of Twitter videos with one click | JavaScript, Krita |
-| [**Gmail "More" Remover**](https://github.com/ddrmv/gmail-more-remover-scriptlet) | Removes the "More" buttons from the label list in Gmail  | JavaScript, Tampermonkey |
 
 
 ## Links
 
 <div align="center">
 <a href="https://github.com/ddrmv/CV">
-<img src="https://img.shields.io/badge/github.CV-121011?logo=github&logoColor=white" alt="" /> </a>
+<img src="https://img.shields.io/badge/github.CV-121011?logo=github&logoColor=white" alt="" /> </a> 
 <a href="https://www.linkedin.com/in/d-dramchev/"> 
 <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white" alt="" /> </a>
 </div>
